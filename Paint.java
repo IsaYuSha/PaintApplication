@@ -5,8 +5,6 @@ import java.util.Random;
 
 /** A class that allows the user to draw on a blank canvas, change the color of the brush
  * (by random, rgb values, or hex code), fill the canvas, clear the canvas, or erase what has been drawn.
- *`
- * <p> Purdue University -- CS18000 -- Fall 2022 -- Homework 12 -- Challenge </p>
  *
  * @author Elisa Loo
  * @version November 15, 2022
